@@ -1,0 +1,22 @@
+# ninja log v5
+3	243	7371843662647627	Cool_Login_Interface_autogen/timestamp	4d299887d3ccd8e9
+3	243	7371843662647627	F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/out/build/Cool_Login_Interface_autogen/timestamp	4d299887d3ccd8e9
+3	243	7371843662647627	Cool_Login_Interface_autogen/mocs_compilation.cpp	4d299887d3ccd8e9
+3	243	7371843662647627	F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/out/build/Cool_Login_Interface_autogen/mocs_compilation.cpp	4d299887d3ccd8e9
+355	412	7371843665205272	CMakeFiles/Cool_Login_Interface.dir/Cool_Login_Interface_autogen/mocs_compilation.cpp.obj	ffb0fec09c9d013f
+243	355	7371843664603928	Cool_Login_Interface_autogen/EWIEGA46WW/qrc_Resource.cpp	8be4d921c368885f
+243	355	7371843664603928	F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/out/build/Cool_Login_Interface_autogen/EWIEGA46WW/qrc_Resource.cpp	8be4d921c368885f
+375	678	7371843667849525	CMakeFiles/Cool_Login_Interface.dir/Cool_Login_Interface_autogen/EWIEGA46WW/qrc_Resource.cpp.obj	6483b0526c6cfa62
+365	2592	7371843686976472	CMakeFiles/Cool_Login_Interface.dir/LoginRegisterDlg.cpp.obj	dda443e931762473
+360	1803	7371843679106877	CMakeFiles/Cool_Login_Interface.dir/main.cpp.obj	143ee7afdeb08143
+370	1877	7371843679832324	CMakeFiles/Cool_Login_Interface.dir/EventFilterObject.cpp.obj	e23e66150f1b082c
+2592	3232	7371843693248137	Cool_Login_Interface.exe	f7588bdedae90341
+4	216	7371851276590283	Cool_Login_Interface_autogen/timestamp	4d299887d3ccd8e9
+4	216	7371851276590283	Cool_Login_Interface_autogen/mocs_compilation.cpp	4d299887d3ccd8e9
+4	216	7371851276590283	F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/out/build/Cool_Login_Interface_autogen/timestamp	4d299887d3ccd8e9
+4	216	7371851276590283	F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/out/build/Cool_Login_Interface_autogen/mocs_compilation.cpp	4d299887d3ccd8e9
+217	329	7371851277669231	Cool_Login_Interface_autogen/EWIEGA46WW/qrc_Resource.cpp	8be4d921c368885f
+217	329	7371851277669231	F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/out/build/Cool_Login_Interface_autogen/EWIEGA46WW/qrc_Resource.cpp	8be4d921c368885f
+334	808	7371851282488895	CMakeFiles/Cool_Login_Interface.dir/Cool_Login_Interface_autogen/EWIEGA46WW/qrc_Resource.cpp.obj	6483b0526c6cfa62
+329	2281	7371851297203094	CMakeFiles/Cool_Login_Interface.dir/LoginRegisterDlg.cpp.obj	dda443e931762473
+2281	2516	7371851299193203	Cool_Login_Interface.exe	f7588bdedae90341

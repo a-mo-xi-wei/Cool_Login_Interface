@@ -1,0 +1,31 @@
+{
+	"BUILD_DIR" : "F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/out/build/Cool_Login_Interface_autogen",
+	"CMAKE_BINARY_DIR" : "F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/out/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/out/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface",
+	"CMAKE_SOURCE_DIR" : "F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface",
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/out/build/Cool_Login_Interface_autogen/include",
+	"INPUTS" : 
+	[
+		"F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/Resource/down-arrow.png",
+		"F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/Resource/cai.png",
+		"F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/Resource/check.png",
+		"F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/Resource/dream.png",
+		"F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/Resource/wangedu.png",
+		"F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/Resource/close-hover.png",
+		"F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/Resource/style.css",
+		"F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/Resource/uncheck.png",
+		"F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/Resource/close.png"
+	],
+	"LOCK_FILE" : "F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/out/build/CMakeFiles/Cool_Login_Interface_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resource.cpp",
+	"RCC_EXECUTABLE" : "F:/Qt/6.5.2/msvc2019_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/out/build/CMakeFiles/Cool_Login_Interface_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "F:/code_review/Qt-WorkSpace/fight/Cool_Login_Interface/Resource.qrc",
+	"VERBOSITY" : 0
+}
